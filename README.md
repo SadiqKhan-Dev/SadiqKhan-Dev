@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate learner currently studying **Mode
 
 ## 🤝 Let’s Connect
 - 💼 You can find me at [LinkedIn](https://www.linkedin.com/in/sadiqkhan/)
-- 🐦 Or follow me on Twitter: [@SadiqKhanDev](https://twitter.com/SadiqKhanDev)
+- 🐦 Or follow me on Twitter: [@SadiqKhanDev](https://x.com/saiqkhan3333)
 
 Feel free to check out my repositories and reach out if you're interested in collaborating or just want to chat about tech!
 
