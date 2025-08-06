@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sadiq Khan</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">Aspiring Full Stack & Agentic AI Developer | Learner @ SMIT</h3>
 
 <!-- Coding GIF placed neatly under intro -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
 </p>
 
-- 🔭 I’m currently working on **AI Projects and Python Web Apps**
-- 🌱 I’m currently learning **Agentic AI and Python**
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Python, and AI**
-- 📫 How to reach me: **msadiqkhan3@gmail.com**
+- 🔭 I’m currently working on **AI Projects and Python Web Apps**  
+- 🌱 I’m currently learning **Agentic AI and Python** at **SMIT**  
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Python, and AI**  
+- 📧 Reach me at: **Saiqkha7777@gmail.com**  
 - ⚡ Fun fact: **I solve bugs faster when I’m caffeinated ☕**
 
 ---
@@ -40,7 +40,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- Clean stats without visual clutter -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadiqkhan-dev&show_icons=true&locale=en" alt="sadiqkhan-dev GitHub Stats" />
   <br />
@@ -57,7 +56,7 @@
   <a href="https://www.linkedin.com/in/sadiqkhan-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:msadiqkhan3@gmail.com" target="_blank">
+  <a href="mailto:Saiqkha7777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sadiqkhan-dev" target="_blank">
