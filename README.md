@@ -78,3 +78,6 @@ I’m building real-world applications as I learn and grow in the field.
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SadiqKhan-Dev&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
