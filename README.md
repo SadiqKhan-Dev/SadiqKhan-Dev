@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sadiq Khan</h1>
-<h3 align="center">Aspiring Full Stack & Agentic AI Developer | Learner @ SMIT</h3>
-
-<!-- Coding GIF placed neatly under intro -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
-</p>
-
-- 🔭 I’m currently working on **AI Projects and Python Web Apps**  
-- 🌱 I’m currently learning **Agentic AI and Python** at **SMIT**  
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Python, and AI**  
-- 📧 Reach me at: **Saiqkha7777@gmail.com**  
-- ⚡ Fun fact: **I solve bugs faster when I’m caffeinated ☕**
-
----
+<!-- Side-by-side layout: Content on Left, GIF on Right -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+  <!-- Text Content -->
+  <div style="text-align: left; max-width: 500px;">
+    <p>🔭 I’m currently working on <strong>AI Projects and Python Web Apps</strong></p>
+    <p>🌱 I’m currently learning <strong>Agentic AI and Python</strong> at <strong>SMIT</strong></p>
+    <p>💬 Ask me about <strong>HTML, CSS, JavaScript, TypeScript, Python, and AI</strong></p>
+    <p>📧 Reach me at: <strong>Saiqkha7777@gmail.com</strong></p>
+    <p>⚡ Fun fact: <strong>I solve bugs faster when I’m caffeinated ☕</strong></p>
+  </div>
 
 ## 🛠️ Tech Stack
 
