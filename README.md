@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/SadiqKhan-Dev">
-    <img src="https://streak-stats.demolab.com?user=SadiqKhan-Dev&theme=radical" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=SadiqKhan-Dev&theme=radical" />
   </a>
 </p>
 
