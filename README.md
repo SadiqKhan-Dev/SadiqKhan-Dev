@@ -25,21 +25,25 @@
 
 ---
 
-### 🚀 GitHub Stats & Activity
+## 🚀 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadiqKhan-Dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/SadiqKhan-Dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=SadiqKhan-Dev&show_icons=true&theme=radical" alt="Sadiq Khan GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqKhan-Dev&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/SadiqKhan-Dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqKhan-Dev&theme=radical" alt="Sadiq Khan GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SadiqKhan-Dev&theme=rogue" alt="GitHub Contribution Graph" />
+  <a href="https://github.com/SadiqKhan-Dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadiqKhan-Dev&theme=rogue" alt="Sadiq Khan GitHub Activity Graph" />
+  </a>
 </p>
-
----
 
 ### 📂 My Repositories
 
