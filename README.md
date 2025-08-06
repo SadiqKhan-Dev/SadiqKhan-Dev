@@ -1,83 +1,73 @@
-# 👋 Hi there, I'm Sadiq Khan
+<h1 align="center">Hi 👋, I'm Muhammad Sadiq Khan</h1>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
-Welcome to my GitHub profile! I’m a passionate and committed learner currently enrolled in the **Modern Web & App Development** program at **SMIT**. Alongside web development, I'm actively exploring the evolving world of **Agentic AI**, particularly through **GIaic** and other emerging technologies in artificial intelligence. 🚀
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+- 🔭 I’m currently working on **AI Projects and Python Web Apps**
 
-## 📚 Currently Learning
+- 🌱 I’m currently learning **Agentic AI and Python**
 
-- **💻 Web Development**
-  - Focused on building responsive, scalable, and modern web applications.
-  - Projects: [Learn Modern Web Application Development in Baby Steps](https://github.com/shahmeersensei/learn-modern-web-application-development-in-baby-steps)
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Python, and AI**
 
-- **🤖 AI Development**
-  - Learning the principles of **Agentic AI** and working with tools to simulate intelligent agent-based systems.
-  - Gaining hands-on experience with Python, OpenAI tools, and AI agent frameworks.
+- 📫 How to reach me **msadiqkhan3@gmail.com**
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🔹 Languages & Core
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-
-### 🔹 Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat&logo=shadcn&logoColor=fff)
-
-### 🔹 Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=fff)
-
-### 🔹 Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=fff)
-
-### 🔹 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=fff)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=000)
-
-### 🔹 AI/ML & Agentic Tools
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=fff)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=fff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=fff)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=fff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=fff)
+- ⚡ Fun fact **I solve bugs faster when I’m caffeinated ☕**
 
 ---
 
-## 🎯 Goals
+## 🛠️ Tech Stack
 
-- 🚀 Build scalable and efficient full-stack applications.
-- 🤖 Contribute to real-world AI projects using agentic design patterns.
-- 📚 Continuously learn and experiment with new tools and technologies in both web and AI development.
-- 👨‍💻 Collaborate on open-source and community-driven tech projects.
+<img align="right" alt="Tech GIF" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+
+**Languages and Tools:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 💻 GitHub Stats
 
-- 🔗 [LinkedIn – Sadiq Khan](https://www.linkedin.com/in/sadiqkhan/)
-- 🐦 [Twitter – @SadiqKhanDev](https://x.com/saiqkhan3333)
+<img align="right" width="300" alt="Coding Cat" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-Feel free to explore my repositories. If you're interested in collaborating or simply want to discuss ideas in tech, don’t hesitate to reach out. Let’s build something amazing together! 💡
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiqkhan-dev&show_icons=true&locale=en" alt="sadiqkhan-dev" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqkhan-dev&" alt="sadiqkhan-dev" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqkhan-dev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sadiqkhan-dev/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:msadiqkhan3@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sadiqkhan-dev" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> Crafted with ❤️ by Muhammad Sadiq Khan
