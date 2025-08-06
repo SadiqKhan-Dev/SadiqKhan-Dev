@@ -72,12 +72,15 @@ I’m building real-world applications as I learn and grow in the field.
 
 ---
 
+### 🐍 Snake Eating My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+
 ### ⚡ Fun Fact
 
 > "Building digital solutions that are smart, efficient, and human-centered with the power of Agentic AI."
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SadiqKhan-Dev&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
