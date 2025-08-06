@@ -15,7 +15,6 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300" />
   </div>
 </div>
-## 🛠️ Tech Stack
 
 ### Languages and Tools:
 
@@ -23,6 +22,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Tech Stack GIF" width="400"/>
 </p>
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
