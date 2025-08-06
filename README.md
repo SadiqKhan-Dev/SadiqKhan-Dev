@@ -10,6 +10,11 @@
     <p>⚡ Fun fact: <strong>I solve bugs faster when I’m caffeinated ☕</strong></p>
   </div>
 
+  <!-- Coding GIF -->
+  <div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300" />
+  </div>
+</div>
 ## 🛠️ Tech Stack
 
 ### Languages and Tools:
