@@ -27,8 +27,6 @@
 
 ## 🚀 GitHub Stats & Activity
 
-### 🚀 GitHub Stats & Activity
-
 <p align="center">
   <a href="https://github.com/SadiqKhan-Dev">
     <img src="https://github-readme-stats.vercel.app/api?username=SadiqKhan-Dev&show_icons=true&theme=radical" alt="Sadiq Khan GitHub Stats" />
