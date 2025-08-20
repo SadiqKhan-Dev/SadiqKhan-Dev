@@ -7,6 +7,10 @@
 
 ---
 
+<a href="https://gitroll.io/profile/uK7RI5gTg0JO76kLJ647cMaNkGgH3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uK7RI5gTg0JO76kLJ647cMaNkGgH3?theme=dracula" alt="GitRoll Profile Badge"/></a>
+
+---
+
 ### 🧠 About Me
 
 - 🌱 Currently Learning: **Full Stack Web Development at SMIT**  
