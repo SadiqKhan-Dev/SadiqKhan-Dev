@@ -1,5 +1,3 @@
-<a href="https://gitroll.io/profile/uK7RI5gTg0JO76kLJ647cMaNkGgH3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uK7RI5gTg0JO76kLJ647cMaNkGgH3?theme=dracula" alt="GitRoll Profile Badge"/></a>
-
 ---
 
 <h1 align="center">Hi 👋, I'm Sadiq Khan</h1>
