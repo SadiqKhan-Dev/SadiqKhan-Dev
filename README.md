@@ -48,6 +48,9 @@
 </p>
 
 
+### Trophies 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiqkhan-dev" alt="sadiqkhan-dev" /></a> </p>
+
 ### 📂 My Repositories
 
 Feel free to explore my projects and give feedback!  
