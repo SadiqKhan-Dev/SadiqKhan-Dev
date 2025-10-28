@@ -59,7 +59,7 @@
 <h2 align="center">📊 Analytics & Achievements</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SadiqKhan-Dev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=22D3EE" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=SadiqKhan-Dev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=22D3EE" />
 
 </p>
 
