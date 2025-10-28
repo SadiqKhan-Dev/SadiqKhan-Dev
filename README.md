@@ -12,8 +12,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
 </p>
 
----
-
 <img src="https://lottiefiles.com/free-animation/ai-animation-kT07dajgwg.gif" width="70%" alt="Neural Network Animation" />
 
 
