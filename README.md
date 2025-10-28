@@ -6,6 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6EE7B7&center=true&vCenter=true&width=850&lines=Hey+there+👋;+I'm+Sadiq+Khan;Full+Stack+Developer+⚡;Agentic+AI+Engineer+🧠;Building+Future+with+Next.js+%26+OpenAI+SDK" alt="Typing Animation" />
 
+
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
+
 ---
 
 <img src="https://lottiefiles.com/free-animation/ai-animation-kT07dajgwg.gif" width="70%" alt="Neural Network Animation" />
