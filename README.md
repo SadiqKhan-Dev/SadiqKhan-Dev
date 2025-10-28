@@ -36,7 +36,10 @@
   <a href="mailto:sadiq.developer.ai@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
 
 <h2 align="center">⚙️ My Tech Universe</h2>
 
@@ -48,7 +51,10 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=SadiqKhan-Dev&data=followers,repositories,stars,commits&theme=tokyonight" />
 </p>
 
----
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
 
 <h2 align="center">📊 Analytics & Achievements</h2>
 
@@ -66,7 +72,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadiqKhan-Dev&theme=react-dark&bg_color=0D1117&hide_border=true&radius=10&line=22D3EE&point=6EE7B7" width="100%"/>
 </p>
 
----
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
 
 <h2 align="center">🏆 3D Contributions & Trophies</h2>
 
@@ -78,7 +87,10 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="3D Snake Animation"/>
 </p>
 
----
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
 
 <h2 align="center">🧠 Featured Projects</h2>
 
@@ -88,7 +100,10 @@
 | 🔹 **Agentic Chatbot** | Gemini API + Chainlit + OpenAI Agents SDK | `Python` `LLMs` `Chainlit` |
 | 🔹 **Next.js Quiz Platform** | CSS/JS quizzes with ShadCN UI | `Next.js` `TS` `ShadCN` |
 
----
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
 
 <h2 align="center">🛠️ Tools I Use Daily</h2>
 
@@ -96,8 +111,10 @@
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,vercel,figma,linux,windows" />
 </p>
 
----
-
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
 <h2 align="center">🎵 Coding Vibes & Focus Stats</h2>
 
 <p align="center">
@@ -110,7 +127,10 @@
   <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Wakatime Badge" />
 </p>
 
----
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
 
 <h2 align="center">📸 Coding in Motion</h2>
 
@@ -119,13 +139,19 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 </p>
 
----
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
 
 <h2 align="center">⚡ Fun Insight</h2>
 
 > “Code isn’t just logic — it’s art in motion, powered by purpose and Agentic Intelligence.”
 
----
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
 
 <h2 align="center">🌌 Let’s Connect</h2>
 
@@ -136,7 +162,10 @@
   <a href="https://www.linkedin.com/in/sadiq-rashid-564375158/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
+<!-- 🌈 ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SadiqKhan-Dev&label=Profile%20Views&color=22D3EE&style=for-the-badge" />
