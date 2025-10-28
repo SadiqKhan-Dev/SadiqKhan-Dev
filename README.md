@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqKhan-Dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6EE7B7" />
+   <img height="200" width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqKhan-Dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6EE7B7" />
 
 </p>
 
