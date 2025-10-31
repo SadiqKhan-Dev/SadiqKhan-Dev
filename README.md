@@ -1,4 +1,4 @@
-<!-- 🧬 Ultra-Modern Animated GitHub README by GPT-5 -->
+<!-- 🧬 Ultra-Modern Animated GitHub README -->
 
 
 <h1 align="center">Hi 👋, I'm Sadiq Khan</h1> <h3 align="center">Aspiring Full Stack Developer | Learning Agentic AI</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+Web+Development;Learning+Agentic+AI+with+OpenAI+SDK;Currently+Studying+Full+Stack+at+SMIT" alt="Typing SVG" /> </p>
