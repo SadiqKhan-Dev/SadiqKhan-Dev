@@ -111,7 +111,7 @@
 <h2 align="center">🛠️ Tools I Use Daily</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,vercel,figma,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,vercel,figma,linux,windows" />
 </p>
 
 <!-- 🌈 ANIMATED DIVIDER -->
