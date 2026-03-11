@@ -1,179 +1,442 @@
-<!-- 🧬 Ultra-Modern Animated GitHub README -->
+<!-- 
+    ███████╗ █████╗ ██████╗ ██╗ ██████╗     ██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗
+    ██╔════╝██╔══██╗██╔══██╗██║██╔═══██╗    ██║ ██╔╝██║  ██║██╔══██╗████╗  ██║
+    ███████╗███████║██║  ██║██║██║   ██║    █████╔╝ ███████║███████║██╔██╗ ██║
+    ╚════██║██╔══██║██║  ██║██║██║▄▄ ██║    ██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║
+    ███████║██║  ██║██████╔╝██║╚██████╔╝    ██║  ██╗██║  ██║██║  ██║██║ ╚████║
+    ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝ ╚══▀▀═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+-->
 
-
-<h1 align="center">Hi 👋, I'm Sadiq Khan</h1> 
-<h3 align="center">Aspiring Front End Developer | Learning Agentic AI</h3>
-<!-- <h3 align="center">Aspiring Full Stack Developer | Learning Agentic AI</h3> -->
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+Web+Development;Learning+Agentic+AI+with+OpenAI+SDK;Currently+Studying+Full+Stack+at+SMIT" alt="Typing SVG" /> </p>
 <div align="center">
-
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6EE7B7&center=true&vCenter=true&width=850&lines=Hey+there+👋;+I'm+Sadiq+Khan;Full+Stack+Developer+⚡;Agentic+AI+Engineer+🧠;Building+Future+with+Next.js+%26+OpenAI+SDK" alt="Typing Animation" /> -->
-
-
-<!-- 🌈 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
-</p>
-
-<img src="https://lottiefiles.com/free-animation/ai-animation-kT07dajgwg.gif" width="70%" alt="Neural Network Animation" />
-
-
-
-
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=SADIQ%20KHAN&fontColor=58a6ff&fontSize=70&fontAlignY=38&desc=Front%20End%20Developer%20%7C%20Agentic%20AI%20Engineer&descSize=20&descAlignY=60&stroke=6EE7B7&strokeWidth=2" width="100%"/>
 </div>
 
-<h2 align="center">🚀 About Me</h2>
-
-> **“I’m crafting intelligent systems that merge creativity with automation — making tech more human, one project at a time.”**
-
-- 🌱 **Currently mastering:** Next.js, TypeScript, and Agentic AI with OpenAI SDK  
-- 🧩 **Focused on:** Building AI-integrated, real-world full stack applications  
-- 🧠 **Researching:** Chain-of-thought reasoning & autonomous agents  
-- 🎯 **Vision:** To empower the web with *autonomous intelligence and immersive user experiences*  
-- 💬 **Talk to me about:** React, Next.js, AI apps, and developer tooling  
-
+<!-- Animated Intro -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sadiq-rashid-564375158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/saiqkhan3333"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:sadiq.developer.ai@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Building+the+Future+with+Code+%26+AI;%3E+Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
 </p>
 
-<!-- 🌈 ANIMATED DIVIDER -->
+<!-- Social Badges -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
-</p>
-
-<h2 align="center">⚙️ My Tech Universe</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,git,github,vercel,linux,figma,postman" />
-</p>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=SadiqKhan-Dev&data=followers,repositories,stars,commits&theme=tokyonight" />
-</p>
-
-<!-- 🌈 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
-</p>
-
-<h2 align="center">📊 Analytics & Achievements</h2>
-
-<p align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=SadiqKhan-Dev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=22D3EE" />
-
-</p>
-
-<p align="center">
-   <img height="200" width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqKhan-Dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6EE7B7" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadiqKhan-Dev&theme=react-dark&bg_color=0D1117&hide_border=true&radius=10&line=22D3EE&point=6EE7B7" width="100%"/>
-</p>
-
-<!-- 🌈 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
-</p>
-
-<h2 align="center">🏆 3D Contributions & Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SadiqKhan-Dev&theme=algolia&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="3D Snake Animation"/>
-</p>
-
-<!-- 🌈 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
-</p>
-
-<h2 align="center">🧠 Featured Projects</h2>
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🔹 **AI Car Simulation System** | Intelligent car control app with OOP & Streamlit | `Python` `OOP` `Streamlit` |
-| 🔹 **Agentic Chatbot** | Gemini API + Chainlit + OpenAI Agents SDK | `Python` `LLMs` `Chainlit` |
-| 🔹 **Next.js Quiz Platform** | CSS/JS quizzes with ShadCN UI | `Next.js` `TS` `ShadCN` |
-
-<!-- 🌈 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
-</p>
-
-<h2 align="center">🛠️ Tools I Use Daily</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,vercel,figma,linux,windows" />
-</p>
-
-<!-- 🌈 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
-</p>
-<h2 align="center">🎵 Coding Vibes & Focus Stats</h2>
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=example&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=example&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="50%"/>
+  <a href="https://www.linkedin.com/in/sadiq-rashid-564375158/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://x.com/saiqkhan3333">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>&nbsp;
+  <a href="mailto:sadiq.developer.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://github.com/SadiqKhan-Dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Wakatime Badge" />
+  <img src="https://komarev.com/ghpvc/?username=SadiqKhan-Dev&label=Profile%20Views&color=6EE7B7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/SadiqKhan-Dev?label=Followers&style=for-the-badge&color=22D3EE&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/SadiqKhan-Dev?label=Stars&style=for-the-badge&color=6EE7B7&logo=github" alt="Stars"/>
 </p>
 
-<!-- 🌈 ANIMATED DIVIDER -->
+<br/>
+
+<!-- About Section with Terminal Style -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+```js
+const sadiqKhan = {
+    pronouns: "He" | "Him",
+    location: "Pakistan 🇵🇰",
+    education: "Full Stack Development @ SMIT",
+    
+    currentFocus: [
+        "Next.js 14 & App Router",
+        "Agentic AI with OpenAI SDK",
+        "TypeScript & Modern React Patterns"
+    ],
+    
+    passions: [
+        "Building AI-Powered Applications",
+        "Creating Seamless User Experiences",
+        "Open Source Contribution"
+    ],
+    
+    lifePhilosophy: "Code is art in motion, powered by purpose"
+};
+```
+
+<br/>
+
+### 🎯 Quick Highlights
+
+- 🔭 **Building:** AI-integrated full stack applications
+- 🌱 **Learning:** Advanced React patterns & Agent frameworks
+- 🧠 **Researching:** Autonomous AI agents & LLM orchestration
+- 💬 **Ask me about:** React, Next.js, TypeScript, AI/ML integration
+- ⚡ **Fun fact:** I debug with coffee ☕ and lo-fi beats 🎵
+
+<br clear="both"/>
+
+---
+
+<!-- Tech Stack Section -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Arsenal
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white"/>
 </p>
+</td>
 
-<h2 align="center">📸 Coding in Motion</h2>
+<td valign="top" width="33%">
 
+### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+</td>
 
-<!-- 🌈 ANIMATED DIVIDER -->
+<td valign="top" width="33%">
+
+### 🤖 AI & Machine Learning
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chainlit-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_DB-FF6F61?style=for-the-badge"/>
 </p>
+</td>
+</tr>
+</table>
 
-<h2 align="center">⚡ Fun Insight</h2>
+<br/>
 
-> “Code isn’t just logic — it’s art in motion, powered by purpose and Agentic Intelligence.”
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<!-- 🌈 ANIMATED DIVIDER -->
+### 🛠️ DevOps & Tools
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
 </p>
+</td>
 
-<h2 align="center">🌌 Let’s Connect</h2>
+<td valign="top" width="50%">
 
+### 🎨 Design & Productivity
 <p align="center">
-  <a href="https://github.com/SadiqKhan-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:sadiq.developer.ai@gmail.com"><img src="https://img.shields.io/badge/Email-FF3333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/saiqkhan3333"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sadiq-rashid-564375158/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Animated Tech Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,tailwind,mongodb,postgres,prisma,git,github,docker,vercel,linux,vscode,figma&perline=11" />
 </p>
 
-<!-- 🌈 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6EE7B7,100:00E0FF&section=header" />
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SadiqKhan-Dev&label=Profile%20Views&color=22D3EE&style=for-the-badge" />
-</p>
+<!-- Featured Projects Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&text=Thanks+for+Visiting!&fontColor=fff&fontSize=24&fontAlignY=65" />
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 Agentic AI Chatbot</h3>
+<div align="center">
+<a href="https://github.com/SadiqKhan-Dev" target="_blank">
+<img src="https://img.shields.io/badge/🔗_View_Repository-6EE7B7?style=for-the-badge"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22D3EE?style=for-the-badge"/>
+</a>
 </div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chainlit-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+</p>
+<p align="center">
+<strong>Autonomous conversational AI</strong> powered by multiple LLM providers. Features chain-of-thought reasoning, tool usage, and multi-turn context awareness.
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">📝 Next.js Quiz Platform</h3>
+<div align="center">
+<a href="https://github.com/SadiqKhan-Dev" target="_blank">
+<img src="https://img.shields.io/badge/🔗_View_Repository-6EE7B7?style=for-the-badge"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22D3EE?style=for-the-badge"/>
+</a>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+</p>
+<p align="center">
+<strong>Interactive learning platform</strong> for CSS/JS enthusiasts. Modern UI components, progress tracking, and responsive design.
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🚗 AI Car Simulation System</h3>
+<div align="center">
+<a href="https://github.com/SadiqKhan-Dev" target="_blank">
+<img src="https://img.shields.io/badge/🔗_View_Repository-6EE7B7?style=for-the-badge"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22D3EE?style=for-the-badge"/>
+</a>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
+<p align="center">
+<strong>Intelligent vehicle control simulation</strong> demonstrating advanced OOP principles with real-time visualization and interactive controls.
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">🌐 Portfolio Website</h3>
+<div align="center">
+<a href="https://github.com/SadiqKhan-Dev" target="_blank">
+<img src="https://img.shields.io/badge/🔗_View_Repository-6EE7B7?style=for-the-badge"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-22D3EE?style=for-the-badge"/>
+</a>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
+</p>
+<p align="center">
+<strong>Modern developer portfolio</strong> with stunning animations, 3D elements, and seamless user experience. Showcases projects and skills.
+</p>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/SadiqKhan-Dev?tab=repositories">
+<img src="https://img.shields.io/badge/📂_View_All_Repositories-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<!-- GitHub Stats Section -->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Analytics
+
+<br/>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SadiqKhan-Dev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=22D3EE&text_color=c9d1d9&ring_color=6EE7B7&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqKhan-Dev&theme=react&hide_border=true&background=0D1117&ring=6EE7B7&fire=22D3EE&currStreakLabel=6EE7B7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqKhan-Dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadiqKhan-Dev&custom_title=Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=22D3EE&point=6EE7B7&area=true&area_color=6EE7B7" width="98%"/>
+</p>
+
+---
+
+<!-- Trophies Section -->
+## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SadiqKhan-Dev&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+<br/>
+
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+<!-- Currently Learning Section -->
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Currently Exploring
+
+<br/>
+
+<div align="center">
+
+| 🎯 Focus Area | 📚 Learning | 🚀 Building |
+|:---:|:---:|:---:|
+| **Agentic AI** | OpenAI Agents SDK, CrewAI, AutoGen | Multi-agent systems & autonomous workflows |
+| **Full Stack** | Next.js 14 App Router, tRPC, Drizzle ORM | Production-grade web applications |
+| **AI/ML Ops** | LangChain, Vector DBs, RAG pipelines | AI-powered developer tools |
+| **Cloud & DevOps** | Docker, CI/CD, Edge Functions | Scalable deployment architectures |
+
+</div>
+
+---
+
+<!-- Philosophy Section -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Philosophy & Vision
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   "I'm crafting intelligent systems that merge creativity with           ║
+║    automation — making tech more human, one project at a time."          ║
+║                                                                          ║
+║   🎯 Mission: Empower the web with autonomous intelligence               ║
+║   🌟 Vision: Build AI that amplifies human potential                     ║
+║   💡 Belief: Great code solves real problems elegantly                   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- Connect Section -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect & Collaborate
+
+<br/>
+
+<div align="center">
+
+<p>
+  <strong>I'm always excited to collaborate on innovative projects, discuss AI/ML trends, or just have a great tech conversation!</strong>
+</p>
+
+<br/>
+
+<a href="mailto:sadiq.developer.ai@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sadiq-rashid-564375158/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://x.com/saiqkhan3333">
+  <img src="https://img.shields.io/badge/🐦_Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/SadiqKhan-Dev">
+  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=SadiqKhan-Dev&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile Widget"/>
+
+</div>
+
+---
+
+<!-- Support Section -->
+<div align="center">
+
+### 💖 Support My Work
+
+<p>If you find my projects helpful or interesting, consider giving them a ⭐</p>
+
+<a href="https://github.com/SadiqKhan-Dev?tab=repositories">
+  <img src="https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:161b22,100:0d1117&section=footer&text=Thanks%20for%20Visiting!%20👋&fontColor=6EE7B7&fontSize=30&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descSize=15&descAlignY=88" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6EE7B7,100:22D3EE&height=30&section=footer&text=Made%20with%20❤️%20and%20☕%20by%20Sadiq%20Khan&fontSize=12&fontColor=0D1117" width="100%"/>
+</p>
