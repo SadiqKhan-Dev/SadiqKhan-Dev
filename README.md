@@ -18,12 +18,23 @@
 </p>
 
 
-<!-- Animated Intro -->
+<!-- GitFut Ultimate Card -->
+<h2 align="center">⚽ GitFut Ultimate Card</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Building+the+Future+with+Code+%26+AI;%3E+Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
+  <a href="https://gitfut.com/sadiqkhan-dev">
+    <img
+      src="https://gitfut.com/sadiqkhan-dev.png"
+      alt="Sadiq Khan GitFut Card"
+      width="420"
+    />
+  </a>
 </p>
 
-<!-- Social Badges -->
+<p align="center">
+  <i>My GitHub profile reimagined as a FIFA Ultimate Team card.</i>
+</p>
+
 
 <!-- Social Badges -->
 <p align="center">
