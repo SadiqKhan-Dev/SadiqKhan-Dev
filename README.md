@@ -17,6 +17,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Building+the+Future+with+Code+%26+AI;%3E+Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
 </p>
 
+
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Building+the+Future+with+Code+%26+AI;%3E+Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
+</p>
+
+<!-- Social Badges -->
+
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sadiq-rashid-564375158/">
