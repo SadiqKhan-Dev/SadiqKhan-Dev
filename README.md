@@ -19,7 +19,7 @@
 
 
 <!-- GitFut Ultimate Card -->
-<h2 align="center">⚽ GitFut Ultimate Card</h2>
+<!-- <h2 align="center">⚽ GitFut Ultimate Card</h2>
 
 <p align="center">
   <a href="https://gitfut.com/sadiqkhan-dev">
@@ -33,7 +33,7 @@
 
 <p align="center">
   <i>My GitHub profile reimagined as a FIFA Ultimate Team card.</i>
-</p>
+</p> -->
 
 
 <!-- Social Badges -->
