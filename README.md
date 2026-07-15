@@ -95,6 +95,14 @@ const sadiqKhan = {
         "Agentic AI with OpenAI SDK",
         "TypeScript & Modern React Patterns"
     ],
+
+     tech: {
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
+    backend: ["Python", "FastAPI"],
+    database: ["Neon PostgreSQL", "Prisma"],
+    ai: ["Gemini", "OpenAI Agents SDK"],
+    devOps: ["Docker", "Kubernetes", "Vercel"]
+  },
     
     passions: [
         "Building AI-Powered Applications",
