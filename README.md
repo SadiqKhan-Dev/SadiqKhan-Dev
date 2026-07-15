@@ -89,7 +89,12 @@ const sadiqKhan = {
     pronouns: "He" | "Him",
     location: "Pakistan 🇵🇰",
     education: "Full Stack Development @ SMIT",
-    
+
+    education: [
+    "SMIT — Full Stack Development",
+    "GIAIC — Generative AI, Agentic Ai, Prompt Engineering",
+  ],
+
     currentFocus: [
         "Next.js 14 & App Router",
         "Agentic AI with OpenAI SDK",
