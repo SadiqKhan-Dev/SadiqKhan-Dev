@@ -91,22 +91,26 @@ const sadiqKhan = {
     education: "Full Stack Development @ SMIT",
 
     education: [
-    "SMIT — Full Stack Development",
-    "GIAIC — Generative AI, Agentic Ai, Prompt Engineering",
+        "SMIT — Full Stack Development",
+        "GIAIC — Generative AI, Agentic Ai,
+                Prompt Engineering",
   ],
 
     currentFocus: [
         "Next.js 14 & App Router",
         "Agentic AI with OpenAI SDK",
-        "TypeScript & Modern React Patterns"
+        "TypeScript & Modern React Patterns",
+        "Cloud & DevOps"
     ],
 
-     tech: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
-    backend: ["Python", "FastAPI"],
-    database: ["Neon PostgreSQL", "Prisma"],
-    ai: ["Gemini", "OpenAI Agents SDK"],
-    devOps: ["Docker", "Kubernetes", "Vercel"]
++    location: "Karachi, Pakistan 🇵🇰",
+
+    tech: {
+        frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
+        backend: ["Python", "FastAPI"],
+        database: ["Neon PostgreSQL", "Prisma"],
+        ai: ["Gemini", "OpenAI Agents SDK"],
+        devOps: ["Docker", "Kubernetes", "Vercel"]
   },
     
     passions: [
