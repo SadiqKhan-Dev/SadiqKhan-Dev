@@ -102,7 +102,7 @@ const sadiqKhan = {
         "Cloud & DevOps"
     ],
 
-+    location: "Karachi, Pakistan 🇵🇰",
+    location: "Karachi, Pakistan 🇵🇰",
 
     tech: {
         frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
