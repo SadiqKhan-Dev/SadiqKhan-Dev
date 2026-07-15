@@ -87,10 +87,10 @@
 ```javascript
 const sadiqKhan = {
     pronouns: "He" | "Him",
-    location: "Pakistan 🇵🇰",
-    education: "Full Stack Development @ SMIT",
+    location: "Karachi, Pakistan 🇵🇰",
 
     education: [
+        "Full Stack Development @ SMIT"
         "SMIT — Full Stack Development",
         "GIAIC — Generative AI, Agentic Ai, Prompt Engineering",
   ],
@@ -101,8 +101,6 @@ const sadiqKhan = {
         "TypeScript & Modern React Patterns",
         "Cloud & DevOps"
     ],
-
-    location: "Karachi, Pakistan 🇵🇰",
 
     tech: {
         frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
