@@ -131,26 +131,26 @@ const sadiqKhan = {
 
 ### 🎯 Quick Highlights
 
-<table>
-  <tr>
-    <td>🔭 <b>Building:</b></td>
-    <td>AI-integrated full stack applications</td>
+<table align="center" width="800" cellpadding="12" cellspacing="0">
+  <tr height="40">
+    <td width="220" valign="middle"><b>🔭 Buildings:</b></td>
+    <td width="580" valign="middle">AI-integrated full stack applications</td>
   </tr>
-  <tr>
-    <td>🌱 <b>Learning:</b></td>
-    <td>Advanced React patterns & Agent frameworks</td>
+  <tr height="40">
+    <td width="220" valign="middle"><b>🌱 Learning:</b></td>
+    <td width="580" valign="middle">Advanced React patterns & Agent frameworks</td>
   </tr>
-  <tr>
-    <td>🧠 <b>Researching:</b></td>
-    <td>Autonomous AI agents & LLM orchestration</td>
+  <tr height="40">
+    <td width="220" valign="middle"><b>🧠 Researching:</b></td>
+    <td width="580" valign="middle">Autonomous AI agents & LLM orchestration</td>
   </tr>
-  <tr>
-    <td>💬 <b>Ask me about:</b></td>
-    <td>React, Next.js, TypeScript, AI/ML integration</td>
+  <tr height="40">
+    <td width="220" valign="middle"><b>💬 Ask me about:</b></td>
+    <td width="580" valign="middle">React, Next.js, TypeScript, AI/ML integration</td>
   </tr>
-  <tr>
-    <td>⚡ <b>Fun fact:</b></td>
-    <td>I debug with coffee ☕ and lo-fi beats 🎵</td>
+  <tr height="40">
+    <td width="220" valign="middle"><b>⚡ Fun fact:</b></td>
+    <td width="580" valign="middle">I debug with coffee ☕ and lo-fi beats 🎵</td>
   </tr>
 </table>
 
