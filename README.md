@@ -92,8 +92,7 @@ const sadiqKhan = {
 
     education: [
         "SMIT — Full Stack Development",
-        "GIAIC — Generative AI, Agentic Ai,
-                Prompt Engineering",
+        "GIAIC — Generative AI, Agentic Ai, Prompt Engineering",
   ],
 
     currentFocus: [
