@@ -103,11 +103,11 @@ const sadiqKhan = {
     ],
 
     tech: {
-        frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
-        backend: ["Python", "FastAPI"],
-        database: ["Neon PostgreSQL", "Prisma"],
-        ai: ["Gemini", "OpenAI Agents SDK"],
-        devOps: ["Docker", "Kubernetes", "Vercel"]
+        Frontend: ["Next.js", "React", "TypeScript", "Tailwind"],
+        Backend: ["Python", "FastAPI"],
+        Database: ["Neon PostgreSQL", "Prisma"],
+        Ai: ["Gemini", "OpenAI Agents SDK"],
+        DevOps: ["Docker", "Kubernetes", "Vercel", "Linux"]
   },
     
     passions: [
