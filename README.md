@@ -9,7 +9,7 @@
 
 <!-- Hero Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=SADIQ%20KHAN&fontColor=58a6ff&fontSize=70&fontAlignY=38&desc=Front%20End%20Developer%20%7C%20Agentic%20AI%20Engineer&descSize=20&descAlignY=60&stroke=6EE7B7&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=SADIQ%20KHAN&fontColor=58a6ff&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Engineer&descSize=20&descAlignY=60&stroke=6EE7B7&strokeWidth=2" width="100%"/>
 </div>
 
 <!-- Animated Intro -->
